@@ -1,2 +1,2 @@
-# -45-Day-Challenge
+# 45-Day-Challenge
 #CrackYourInternship Challenge  DSA Solutions
